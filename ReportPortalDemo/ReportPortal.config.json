@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "server": {
+    "url": "https://rp.epam.com",
+    "project": "jaspreetsingh_tuli_personal",
+    "authentication": {
+      "uuid": "06caf87e-1b4f-4bc8-824f-07113fb3cda3"
+    }
+  },
+  "launch": {
+    "name": "NUnit 3 Demo Launch",
+    "description": "this is description",
+    "debugMode": false,
+    "tags": [ "t1", "t2" ]
+  }
+}
